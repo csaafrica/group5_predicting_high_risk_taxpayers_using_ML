@@ -1,5 +1,6 @@
 # Byte-compiled / optimized / DLL files
 data/
+njoki/
 __pycache__/
 *.py[codz]
 *$py.class
