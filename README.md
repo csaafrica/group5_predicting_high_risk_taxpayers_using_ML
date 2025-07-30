@@ -1,11 +1,11 @@
 # Tax Non-Compliance Risk Prediction
 
-![Tax-Image.](Image/tax.jpg)
+![Tax-Image.](image/tax.jpeg)
 
 
 Authors:
-Rose Muthini
-Ruth Kamau
+Rose Muthini,
+Ruth Kamau,
 David Sudi
 
 
